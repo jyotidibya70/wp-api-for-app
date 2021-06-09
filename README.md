@@ -1,4 +1,4 @@
-# wp-api-for-app
+# WP custom post and taxonomy, API, PODCAST Intregation
 Theme function file of a WordPress site.
 Files contain default funtions used is a WordPress site.
 Uses some custom post type and taxonomy.
